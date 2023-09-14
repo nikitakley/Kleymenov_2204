@@ -5,7 +5,7 @@ int main() {
 	
 	string n;
 	cout << "Hello, world!\n";
-	cout << "Write your text:";
+	cout << "Write your text: ";
 	cin >> n;
 	cout << "Your text: " << n << "\n";
 	return 0;
